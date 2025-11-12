@@ -5,7 +5,7 @@ O processo foi dividido em duas principais etapas: **LAND → BRONZE** e **BRONZ
 
 ---
 
-##Etapa 1 — LAND → BRONZE
+Etapa 1: LAND → BRONZE
 
 1. Realizei o **download do dataset** no kaggle.  
 2. Criei os **databases** necessários no ambiente de trabalho.  
@@ -14,7 +14,7 @@ O processo foi dividido em duas principais etapas: **LAND → BRONZE** e **BRONZ
 
 ---
 
-##Etapa 2 — BRONZE → SILVER
+Etapa 2: BRONZE → SILVER
 
 1. Para cada tabela da camada Bronze, realizei o **tratamento e limpeza dos dados**, conforme os **requisitos definidos no desafio**.  
 2. As transformações incluíram:
